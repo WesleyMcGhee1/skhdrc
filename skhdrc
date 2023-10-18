@@ -3,7 +3,7 @@ cmd - return : osascript ~/.config/skhd/warp.scpt
 # Don't even use chrome anymore
 cmd - 0 : open -na 'google chrome'
 cmd - 9 : open -na 'firefox developer edition'
-cmd - 8 : open -na 'brave'
+cmd - 8 : open -na 'brave browser'
 
 
 # Changing window focus
